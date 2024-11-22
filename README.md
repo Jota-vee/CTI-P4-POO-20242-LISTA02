@@ -8,7 +8,7 @@ O livro Fundamentos da Programação da Computação aborda os conceitos básico
 
 ## CAP04
 
-### ESTRUTURAS CONDICIONAIS
+### Estruturas condicionais
 
 - **if**: Executa um bloco de código se a condição for verdadeira.
 - **else**: Executa um bloco de código se a condição do if for falsa
@@ -16,7 +16,7 @@ O livro Fundamentos da Programação da Computação aborda os conceitos básico
 
 ## CAP05
 
-### ESTRUTURAS DE REPETIÇÃO
+### Estruturas de repetição
 
 - **for**:  Executa um bloco de código um número determinado de vezes, geralmente com base em um contador ou intervalo.
 - **while**: Executa um bloco de código enquanto uma condição for verdadeira.

@@ -18,4 +18,4 @@ discutidos conceitos avançados de análise de algoritmos, incluindo complexidad
 Em resumo, o livro oferece uma compreensão profunda dos princípios essenciais da programação e da computação, sendo uma ótima referência para quem está começando ou deseja revisar os fundamentos 
 dessa área crucial da tecnologia.
 
-<img src="https://m.media-amazon.com/images/I/81HITrV4GXL._AC_UF894,1000_QL80_.jpg" width="500">
+<img src="https://m.media-amazon.com/images/I/81HITrV4GXL._AC_UF894,1000_QL80_.jpg" width="300">

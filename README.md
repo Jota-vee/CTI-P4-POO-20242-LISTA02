@@ -18,4 +18,6 @@ discutidos conceitos avançados de análise de algoritmos, incluindo complexidad
 Em resumo, o livro oferece uma compreensão profunda dos princípios essenciais da programação e da computação, sendo uma ótima referência para quem está começando ou deseja revisar os fundamentos 
 dessa área crucial da tecnologia.
 
-### 
+### capitulo 04
+
+em resumo o caoitulo 4 aborda estruturas condicionais, que serve para permitir que o programa tome decisões com base em condições específicas. Elas avaliam uma expressão booleana (verdadeira ou falsa) e, dependendo do resultado, executam diferentes blocos de código. As principais estruturas condicionais incluem o `if` (para verificar uma condição), o `else` (para executar um código quando a condição for falsa), e o `else if` (para testar várias condições sequenciais). Elas são essenciais para criar programas dinâmicos que respondem a diferentes cenários.

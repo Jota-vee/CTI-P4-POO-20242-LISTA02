@@ -4,7 +4,7 @@ esse repositorio contém as atividades em java resolvidas do capitulo 4 e 5, do 
 
 ### Fundamentos da programação de computação
 
-|![fundamentos da programação de computadores](https://m.media-amazon.com/images/I/81HITrV4GXL._AC_UF894,1000_QL80_.jpg)| texto ao lado|
+|<img src ="https://m.media-amazon.com/images/I/81HITrV4GXL._AC_UF894,1000_QL80_.jpg" width = "300">| texto ao lado|
 ------------------------------------------------------------------------------------------------------------------------|--------------|
 
 Fundamentos da Programação da Computação é um livro que aborda os conceitos básicos da programação de computadores, com o objetivo de fornecer uma base sólida para iniciantes. Ele apresenta os 
@@ -21,3 +21,4 @@ discutidos conceitos avançados de análise de algoritmos, incluindo complexidad
 Em resumo, o livro oferece uma compreensão profunda dos princípios essenciais da programação e da computação, sendo uma ótima referência para quem está começando ou deseja revisar os fundamentos 
 dessa área crucial da tecnologia.
 
+https://m.media-amazon.com/images/I/81HITrV4GXL._AC_UF894,1000_QL80_.jpg

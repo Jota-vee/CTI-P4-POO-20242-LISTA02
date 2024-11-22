@@ -1,1 +1,5 @@
-# CTI-P4-POO-20242-LISTA02
+# Sobre o que é o repositorio
+
+esse repositorio contém as atividades em java resolvidas do capitulo 4 e 5, do livro fundamentos da programação de computação [💻](https://doc-0o-38-prod-03-apps-viewer.googleusercontent.com/viewer2/prod-03/pdf/o1shni9t88lhn124o13k2j56hin7brmv/ml9ng3ipquih6jfescvdeuv8th18sc6d/1732277250000/3/114902790585864823759/APznzaZqJ_BHfpNWqXzc0vY2FRFk_RbOZOHtUpKInM8uCVJpY9JdIygIQlBXMFGGO5ZXJFM8tUNRVyg8QPcRxE3DuXeCOfR1zDiEiYasxAIEZJpjiPXHhDoik9QCDuveRV8BSU9clHFpWsd6RzoS_Uofo6z4gPRByIaVxmkvduO3JYqnOSjaBtUKj0UQJGdgfpKMnjd4LuiDsW_O5SgI_lwnP4dMOIW2sF9oh3kOI-YGSA5W2R3i7nRgvPZl6c752lwvIYjWv7dXoBUYSYF1Sharm9sImvMDGswVQkP3HBFoH5WgRhe4KjyQv0WYPFacFrzvNUFXnHa9VX7OfIcuzxa-hTlwDghRtVRubCncAZxp4FCjQVErBol-gooV7nQjYJMvfRkpTQxoYIoSN-qIoPqIG_JAoIMJebuz4iWobTMFyc5yAdOMIto=?authuser=0&nonce=07bfb41qkekr4&user=114902790585864823759&hash=5to60vbh3l9fsssmik7s0o0tmp9le3in)
+
+# Fundamentos da programação de computação

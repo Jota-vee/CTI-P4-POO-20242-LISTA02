@@ -16,7 +16,7 @@ em resumo o caoitulo 4 aborda estruturas condicionais, que serve para permitir q
 
 ### capitulo 05
 
-AS estruturas de repetição servem para permitir que um trecho de código seja executado várias vezes, de acordo com uma condição ou um número específico de iterações. Elas são usadas para automatizar tarefas repetitivas e reduzir a necessidade de código duplicado. As principais estruturas de repetição são:
+de forma resumida as estruturas de repetição servem para permitir que um trecho de código seja executado várias vezes, de acordo com uma condição ou um número específico de iterações. Elas são usadas para automatizar tarefas repetitivas e reduzir a necessidade de código duplicado. As principais estruturas de repetição são:
 
 - for:  Executa um bloco de código um número determinado de vezes, geralmente com base em um contador ou intervalo.
 - while: Executa um bloco de código enquanto uma condição for verdadeira.

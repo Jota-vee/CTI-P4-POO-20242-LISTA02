@@ -128,7 +128,7 @@ Para programar em Java no Eclipse, você precisa ter o **JDK (Java Development K
 - **Configurar o JDK no Eclipse**:
    - O Eclipse normalmente detecta o JDK automaticamente, mas se necessário, você pode configurar manualmente em **Eclipse > Preferences > Java > Installed JREs**.
 
-## Passo 5: Começar a Programar em Java
+### Passo 5: Começar a Programar em Java
 
 - Abra o Eclipse, e na tela inicial, clique em **File > New > Java Project** para criar um novo projeto Java.
    
@@ -138,7 +138,7 @@ Para programar em Java no Eclipse, você precisa ter o **JDK (Java Development K
    
 - No editor de código do Eclipse, você pode escrever seu código Java. Para rodá-lo, basta clicar com o botão direito na classe principal (a que contém o método `public static void main(String[] args)`) e escolher **Run As > Java Application**.
 
-## Passo 6: Atualizar o Eclipse (Opcional)
+### Passo 6: Atualizar o Eclipse (Opcional)
 
 Se você já tem o Eclipse instalado e deseja atualizá-lo:
 

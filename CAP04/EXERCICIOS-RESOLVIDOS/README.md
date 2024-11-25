@@ -1,7 +1,7 @@
 
 | Exercício | Descrição | Caminho                                  |
 |-----------|-----------|------------------------------------------|
-| EXE01     |           | EXE01/src/Br/edu/principal/Principal.java |
+| EXE01     |           | EXE01/src/br/edu/principal/Principal.java |
 | EXE02     |           | EXE02/src/Br/edu/principal/Principal.java |
 | EXE03     |           | EXE03/src/Br/edu/principal/Principal.java |
 | EXE04     |           | EXE04/src/Br/edu/principal/Principal.java |

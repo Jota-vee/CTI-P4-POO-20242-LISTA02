@@ -32,5 +32,5 @@ O livro Fundamentos da Programação da Computadores aborda os conceitos básico
 
 # Como usar
 
-- Baixe o [eclipse 🌙](https://www.eclipse.org/downloads/)
-- 
+- Instale o [eclipse 🌙](https://www.eclipse.org/downloads/)
+- click a dowload e escolha entre [x86_64 e AArch64](https://plus.diolinux.com.br/t/qual-a-diferenca-de-x86-64-e-arch64/33253).

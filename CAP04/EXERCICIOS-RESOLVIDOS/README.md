@@ -1,4 +1,4 @@
-| Exercício                                      | Exercícios |  
+| Exercício                                      | Descrição |  
 |------------------------------------------------|-----------|  
 | [EXE01](EXE01/src/br/edu/principal/Principal.java) |           |  
 | [EXE02](EXE02/src/br/edu/principal/Principal.java) |           |  

@@ -15,6 +15,8 @@ O livro Fundamentos da Programação da Computadores aborda os conceitos básico
 - **if**: Executa um bloco de código se a condição for verdadeira.
 - **else**: Executa um bloco de código se a condição do if for falsa.
 - **else if**:  Permite testar várias condições em sequência.
+- **switch** O switch escolhe entre vários blocos de código com base no valor de uma variável. usa-se case para opções e default para valores não previstos.
+
 
 ## CAP05
 

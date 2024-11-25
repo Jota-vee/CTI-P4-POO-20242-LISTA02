@@ -29,3 +29,8 @@ O livro Fundamentos da Programação da Computadores aborda os conceitos básico
 ## IDE utilizada
 
 - eclipse 🌙
+
+# Como usar
+
+- Baixe o [eclipse 🌙](https://www.eclipse.org/downloads/)
+- 

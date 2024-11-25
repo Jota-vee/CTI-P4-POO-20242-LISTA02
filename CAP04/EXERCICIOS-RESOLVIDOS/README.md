@@ -1,6 +1,6 @@
 | Exercício                                      | Descrição |  
 |------------------------------------------------|-----------|  
-| [EXE01](EXE01/src/br/edu/principal/Principal.java) | Calcular a média de um aluno com base em quatro notas e determinar se está aprovado ou reprovado. |  
+| [EXE01](EXE01/src/br/edu/principal/Principal.java) | Calcular a média de um aluno com base em três notas e determinar se está aprovado ou reprovado. |  
 | [EXE02](EXE02/src/br/edu/principal/Principal.java) | Classificar a média de um aluno como aprovado, exame ou reprovado, com base em faixas específicas. |  
 | [EXE03](EXE03/src/br/edu/principal/Principal.java) | Determinar o menor entre dois números fornecidos. |  
 | [EXE04](EXE04/src/br/edu/principal/Principal.java) | Identificar o maior número dentre três valores informados pelo usuário. |  

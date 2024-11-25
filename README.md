@@ -30,13 +30,11 @@ O livro Fundamentos da Programação da Computadores aborda os conceitos básico
 
 - eclipse 🌙
 
-# Como usar
+## Como Instalar o Eclipse para Desenvolvimento Java
 
-# Como Instalar o Eclipse para Desenvolvimento Java
+### Passo 1: Baixar o Eclipse IDE 🌙
 
-## Passo 1: Baixar o Eclipse IDE
-
-1. Acesse o site oficial do Eclipse: [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/).
+1. Acesse o site oficial do Eclipse: [🌙](https://www.eclipse.org/downloads/).
    
 2. Na página principal, você verá uma opção para baixar a versão mais recente do **Eclipse IDE for Java Developers**. Clique no botão **Download** para a versão que você deseja.
    
@@ -44,9 +42,9 @@ O livro Fundamentos da Programação da Computadores aborda os conceitos básico
 
 3. O arquivo será baixado como um arquivo compactado (geralmente um arquivo `.zip` no Windows ou `.tar.gz` no Linux).
 
-## Passo 2: Instalar o Eclipse
+### Passo 2: Instalar o Eclipse
 
-### No Windows:
+#### No Windows:
 
 1. **Descompacte o arquivo**:
    - Após o download, localize o arquivo `.zip` que foi baixado.
@@ -57,7 +55,7 @@ O livro Fundamentos da Programação da Computadores aborda os conceitos básico
    - Vá até a pasta onde o Eclipse foi extraído.
    - Clique duas vezes no arquivo `eclipse.exe` para iniciar o Eclipse.
 
-### No Linux:
+#### No Linux:
 
 1. **Descompacte o arquivo**:
    - Abra o terminal e navegue até a pasta onde o arquivo `.tar.gz` foi baixado.
@@ -73,7 +71,7 @@ O livro Fundamentos da Programação da Computadores aborda os conceitos básico
      ./eclipse
      ```
 
-### No macOS:
+#### No macOS:
 
 1. **Montar o arquivo `.dmg`**:
    - Clique no arquivo `.dmg` que você baixou.
@@ -82,16 +80,16 @@ O livro Fundamentos da Programação da Computadores aborda os conceitos básico
 2. **Executar o Eclipse**:
    - Vá até a pasta **Aplicativos** e clique duas vezes no ícone do **Eclipse** para abri-lo.
 
-## Passo 3: Configurar o Workspace
+### Passo 3: Configurar o Workspace
 
 - Ao abrir o Eclipse pela primeira vez, ele solicitará que você escolha um **workspace**. O workspace é o diretório onde você armazenará seus projetos Java.
 - Você pode aceitar o caminho padrão ou escolher uma nova pasta para armazenar seus projetos.
 
-## Passo 4: Instalar o JDK (Java Development Kit)
+### Passo 4: Instalar o JDK (Java Development Kit)
 
 Para programar em Java no Eclipse, você precisa ter o **JDK (Java Development Kit)** instalado no seu computador. O Eclipse utiliza o JDK para compilar e executar seus programas Java.
 
-### No Windows:
+#### No Windows:
 
 1. **Baixar o JDK**:
    - Acesse o site oficial da Oracle para baixar o JDK [aqui](https://www.oracle.com/java/technologies/javase-downloads.html).
@@ -105,7 +103,7 @@ Para programar em Java no Eclipse, você precisa ter o **JDK (Java Development K
    - Em seguida, vá para **Java > Installed JREs**.
    - Se o JDK não aparecer, clique em **Add** e escolha o diretório onde o JDK foi instalado.
 
-### No Linux (Ubuntu/Debian):
+#### No Linux (Ubuntu/Debian):
 
 1. **Instalar o JDK**:
    - Abra o terminal e execute o comando para instalar o JDK:
@@ -119,7 +117,7 @@ Para programar em Java no Eclipse, você precisa ter o **JDK (Java Development K
      java -version
      ```
 
-### No macOS:
+#### No macOS:
 
 1. **Baixar e instalar o JDK**:
    - O macOS já inclui uma versão do JDK, mas você pode baixar a versão mais recente no site da Oracle ou usar o Homebrew:

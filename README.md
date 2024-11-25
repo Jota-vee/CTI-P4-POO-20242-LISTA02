@@ -144,3 +144,5 @@ Se você já tem o Eclipse instalado e deseja atualizá-lo:
 
 - Vá em **Help > Check for Updates**.
 - O Eclipse verificará se há atualizações disponíveis e, se houver, você poderá instalá-las.
+
+## dowload do diretorio 
